@@ -1,0 +1,1 @@
+{"uuid":"efcb3694-23b3-42f9-8667-db0c1150234a","name":"org.scrolltest.test.TestDeletePersom","children":["91888eba-3c72-47db-9490-3b69de95dc29"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1612635421821,"stop":1612635421825}],"afters":[],"links":[],"start":1612635421803,"stop":1612635434733}

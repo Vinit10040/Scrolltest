@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 2.389 s <<< FAILURE! - in TestSuite
+deletePerson(org.scrolltest.test.TestDeletePersom)  Time elapsed: 0.723 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.scrolltest.test.TestDeletePersom.deletePerson(TestDeletePersom.java:20)
+
+testGetAllPerson(org.scrolltest.test.TestGetPerson)  Time elapsed: 0.003 s  <<< FAILURE!
+java.lang.NullPointerException
+	at org.scrolltest.test.TestGetPerson.testGetAllPerson(TestGetPerson.java:24)
+
+updatePersondata(org.scrolltest.test.TestPatchPerson)  Time elapsed: 0.104 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.scrolltest.test.TestPatchPerson.updatePersondata(TestPatchPerson.java:21)
+

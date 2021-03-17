@@ -1,0 +1,6 @@
+org\scrolltest\AppTest.class
+org\scrolltest\test\TestPatchPerson.class
+org\scrolltest\test\TestGetPerson.class
+org\scrolltest\test\TestDeletePersom.class
+org\scrolltest\test\TestPostPersom.class
+org\scrolltest\test\TestPutPerson.class
